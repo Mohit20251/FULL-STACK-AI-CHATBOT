@@ -1,5 +1,8 @@
 # QuickGPT — Full Stack AI Chatbot
 
+![License](https://img.shields.io/badge/license-MIT-blue.svg)
+![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)
+
 A full-stack AI chatbot application built with React, Node.js, MongoDB, and the Gemini API. Includes user authentication, chat history, image uploads via ImageKit, and credit-based payments via Stripe.
 
 ---
@@ -118,6 +121,14 @@ Both `client/` and `server/` include a `vercel.json` for easy deployment on [Ver
 
 ---
 
+## Contributing
+
+See [CONTRIBUTING.md](./CONTRIBUTING.md) for guidelines.
+
+## Changelog
+
+See [CHANGELOG.md](./CHANGELOG.md) for version history.
+
 ## License
 
-MIT
+MIT — see [LICENSE](./LICENSE) for details.
